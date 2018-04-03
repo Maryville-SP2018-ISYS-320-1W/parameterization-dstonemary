@@ -1,14 +1,14 @@
 /*
-	ISYS 320
-	Name(s):
-	Date: 
+  	ISYS 320
+  	Name(s): Derek Stone
+  	Date:    April-01-2018
 */
 
 /*
  7. After you fixed the error, why is this an error? Note: do not just repeat Eclipse's error message,
  why did Eclipse have that error message?
  
- 
+ I have not seen any error output result as expected.
  
  */
 
